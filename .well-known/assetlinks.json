@@ -1,5 +1,5 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target" : { "namespace": "android_app", "package_name": "cn.knero.bx",
-               "sha256_cert_fingerprints": ["cn.knero.bx"] }
+               "sha256_cert_fingerprints": ["5D:91:36:A8:BE:5D:FA:E1:94:52:B1:DD:74:9A:C9:41:C8:4C:67:08:CA:7B:27:19:8F:B9:4F:93:88:10:19:49"] }
 }]
